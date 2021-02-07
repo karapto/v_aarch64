@@ -1,0 +1,1 @@
+/Users/taisho-s/workspace/rust_practice/aarch64-test/target/aarch64-unknown-none/debug/aarch64-test: /Users/taisho-s/workspace/rust_practice/aarch64-test/src/main.rs /Users/taisho-s/workspace/rust_practice/aarch64-test/src/panic.rs /Users/taisho-s/workspace/rust_practice/aarch64-test/src/start.s
