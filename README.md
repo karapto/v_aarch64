@@ -1,1 +1,1 @@
-# v_aarch64
+# this repository is for studying v_aarch64 by full scratch.
